@@ -12,5 +12,6 @@
 </head>
 <body>
     <h1>Hello Laravel</h1>
+    <h2>Hello Laravel</h2>
 </body>
 </html>

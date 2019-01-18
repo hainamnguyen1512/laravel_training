@@ -24,3 +24,9 @@ Route::get('post',[
       'uses' => 'PostControler@index',
     ]
 );
+
+Route::get('register',[
+        'as' => 'userRegister',
+        'uses' => 'PostControler@register',
+    ]
+);

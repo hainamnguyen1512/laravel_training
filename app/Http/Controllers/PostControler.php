@@ -9,4 +9,8 @@ class PostControler extends Controller
     public function index(){
         return view('post');
     }
+
+    public function register(){
+        return view('register');
+    }
 }
